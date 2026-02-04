@@ -41,8 +41,7 @@ body {
     "Apple Color Emoji",
     "Segoe UI Emoji";
   color: var(--text);
-  background: radial-gradient(1200px 600px at 50% -100px, rgba(59, 130, 246, 0.10), transparent 60%),
-    linear-gradient(180deg, var(--bg), #ffffff);
+  background: red;
 }
 
 .app {
